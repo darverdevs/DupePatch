@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DupePatch">
+    <output-path>$PROJECT_DIR$/out/artifacts/DupePatch</output-path>
+    <root id="archive" name="DupePatch.jar">
+      <element id="module-output" name="DupePatch" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>

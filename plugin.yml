@@ -1,0 +1,4 @@
+name: DupePatch
+version: 1.0.0
+main: dupepatch.main.Main
+description: Patches minecart portal dupe alongside obsidian TNT dupe.
