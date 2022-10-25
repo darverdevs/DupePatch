@@ -1,3 +1,7 @@
+# IMPORTANT NOTICE
+
+DupePatch is officially discontinued. I do not have time to work on this project any more, and I have lost all faith in 1.5.2 in terms of patching dupes. If somebody wishes to fork this repository and maintain it, feel free.
+
 # DupePatch
 
 DupePatch is a simple plugin for CraftBukkit 1.5.2 that patches a number of duplication glitches present in this ancient version of Minecraft. The dupe patches include:
